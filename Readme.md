@@ -17,8 +17,8 @@
 <!-- nuget packages -->
 | Package | NuGet | MyGet |
 | ------- | ----- | ----- |
-| Rocket.Surgery.Extensions.NodaTime | [![nuget-version-qpvky12oeijq-badge]![nuget-downloads-qpvky12oeijq-badge]][nuget-qpvky12oeijq] | [![myget-version-qpvky12oeijq-badge]![myget-downloads-qpvky12oeijq-badge]][myget-qpvky12oeijq] |
 | Rocket.Surgery.AspNetCore.NodaTime | [![nuget-version-kuxldshra+cg-badge]![nuget-downloads-kuxldshra+cg-badge]][nuget-kuxldshra+cg] | [![myget-version-kuxldshra+cg-badge]![myget-downloads-kuxldshra+cg-badge]][myget-kuxldshra+cg] |
+| Rocket.Surgery.Extensions.NodaTime | [![nuget-version-qpvky12oeijq-badge]![nuget-downloads-qpvky12oeijq-badge]][nuget-qpvky12oeijq] | [![myget-version-qpvky12oeijq-badge]![myget-downloads-qpvky12oeijq-badge]][myget-qpvky12oeijq] |
 <!-- nuget packages -->
 
 # Whats next?
@@ -39,18 +39,18 @@ TBD
 [appveyor-badge]: https://img.shields.io/appveyor/ci/RocketSurgeonsGuild/nodatime-extensions.svg?color=00b3e0&label=appveyor&logo=appveyor&logoColor=00b3e0&style=flat "AppVeyor Status"
 [appveyor-history]: https://ci.appveyor.com/project/RocketSurgeonsGuild/nodatime-extensions/history
 [appveyor-history-badge]: https://buildstats.info/appveyor/chart/RocketSurgeonsGuild/nodatime-extensions?includeBuildsFromPullRequest=false "AppVeyor History"
-[nuget-qpvky12oeijq]: https://www.nuget.org/packages/Rocket.Surgery.Extensions.NodaTime/
-[nuget-version-qpvky12oeijq-badge]: https://img.shields.io/nuget/v/Rocket.Surgery.Extensions.NodaTime.svg?color=004880&logo=nuget&style=flat-square "NuGet Version"
-[nuget-downloads-qpvky12oeijq-badge]: https://img.shields.io/nuget/dt/Rocket.Surgery.Extensions.NodaTime.svg?color=004880&logo=nuget&style=flat-square "NuGet Downloads"
-[myget-qpvky12oeijq]: https://www.myget.org/feed/rocket-surgeons-guild/package/nuget/Rocket.Surgery.Extensions.NodaTime
-[myget-version-qpvky12oeijq-badge]: https://img.shields.io/myget/rocket-surgeons-guild/vpre/Rocket.Surgery.Extensions.NodaTime.svg?label=myget&color=004880&logo=nuget&style=flat-square "MyGet Pre-Release Version"
-[myget-downloads-qpvky12oeijq-badge]: https://img.shields.io/myget/rocket-surgeons-guild/dt/Rocket.Surgery.Extensions.NodaTime.svg?color=004880&logo=nuget&style=flat-square "MyGet Downloads"
 [nuget-kuxldshra+cg]: https://www.nuget.org/packages/Rocket.Surgery.AspNetCore.NodaTime/
 [nuget-version-kuxldshra+cg-badge]: https://img.shields.io/nuget/v/Rocket.Surgery.AspNetCore.NodaTime.svg?color=004880&logo=nuget&style=flat-square "NuGet Version"
 [nuget-downloads-kuxldshra+cg-badge]: https://img.shields.io/nuget/dt/Rocket.Surgery.AspNetCore.NodaTime.svg?color=004880&logo=nuget&style=flat-square "NuGet Downloads"
 [myget-kuxldshra+cg]: https://www.myget.org/feed/rocket-surgeons-guild/package/nuget/Rocket.Surgery.AspNetCore.NodaTime
 [myget-version-kuxldshra+cg-badge]: https://img.shields.io/myget/rocket-surgeons-guild/vpre/Rocket.Surgery.AspNetCore.NodaTime.svg?label=myget&color=004880&logo=nuget&style=flat-square "MyGet Pre-Release Version"
 [myget-downloads-kuxldshra+cg-badge]: https://img.shields.io/myget/rocket-surgeons-guild/dt/Rocket.Surgery.AspNetCore.NodaTime.svg?color=004880&logo=nuget&style=flat-square "MyGet Downloads"
+[nuget-qpvky12oeijq]: https://www.nuget.org/packages/Rocket.Surgery.Extensions.NodaTime/
+[nuget-version-qpvky12oeijq-badge]: https://img.shields.io/nuget/v/Rocket.Surgery.Extensions.NodaTime.svg?color=004880&logo=nuget&style=flat-square "NuGet Version"
+[nuget-downloads-qpvky12oeijq-badge]: https://img.shields.io/nuget/dt/Rocket.Surgery.Extensions.NodaTime.svg?color=004880&logo=nuget&style=flat-square "NuGet Downloads"
+[myget-qpvky12oeijq]: https://www.myget.org/feed/rocket-surgeons-guild/package/nuget/Rocket.Surgery.Extensions.NodaTime
+[myget-version-qpvky12oeijq-badge]: https://img.shields.io/myget/rocket-surgeons-guild/vpre/Rocket.Surgery.Extensions.NodaTime.svg?label=myget&color=004880&logo=nuget&style=flat-square "MyGet Pre-Release Version"
+[myget-downloads-qpvky12oeijq-badge]: https://img.shields.io/myget/rocket-surgeons-guild/dt/Rocket.Surgery.Extensions.NodaTime.svg?color=004880&logo=nuget&style=flat-square "MyGet Downloads"
 <!-- generated references -->
 
 <!-- nuke-data

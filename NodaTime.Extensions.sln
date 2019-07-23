@@ -19,11 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = ".build", ".build\.build.csp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".build", ".build", "{E3DCB78E-EE06-4EA3-88AC-762D8910387C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket.Surgery.AspNetCore.NodaTime", "src\AspNetCore.NodaTime\Rocket.Surgery.AspNetCore.NodaTime.csproj", "{2E015F5E-9AD6-420D-BD68-7EB504B3AA44}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket.Surgery.Extensions.NodaTime", "src\NodaTime\Rocket.Surgery.Extensions.NodaTime.csproj", "{5C494CDA-7522-45F1-95B5-A991F596FC67}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket.Surgery.Extensions.NodaTime.Tests", "test\NodaTime.Tests\Rocket.Surgery.Extensions.NodaTime.Tests.csproj", "{66F293DB-9507-40E0-B1FA-5CDAA0088364}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket.Surgery.AspNetCore.NodaTime", "src\AspNetCore.NodaTime\Rocket.Surgery.AspNetCore.NodaTime.csproj", "{2E015F5E-9AD6-420D-BD68-7EB504B3AA44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
