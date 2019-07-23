@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Text;
 using Microsoft.Extensions.DependencyInjection;
 using NodaTime;
 using NodaTime.TimeZones;
@@ -12,8 +9,16 @@ using Rocket.Surgery.Extensions.DependencyInjection;
 
 namespace Rocket.Surgery.Extensions.NodaTime
 {
+    /// <summary>
+    /// AspNetCoreConvention.
+    /// </summary>
+    /// <seealso cref="IServiceConvention" />
     public class NodaTimeConvention : IServiceConvention
     {
+        /// <summary>
+        /// Registers the specified context.
+        /// </summary>
+        /// <param name="context">The context.</param>
         public void Register(IServiceConventionContext context)
         {
             context.Services.AddSingleton<IClock>(SystemClock.Instance);
