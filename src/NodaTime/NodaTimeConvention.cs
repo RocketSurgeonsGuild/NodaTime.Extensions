@@ -10,7 +10,7 @@ using Rocket.Surgery.Extensions.DependencyInjection;
 namespace Rocket.Surgery.Extensions.NodaTime
 {
     /// <summary>
-    /// AspNetCoreConvention.
+    /// NodaTimeConvention.
     /// </summary>
     /// <seealso cref="IServiceConvention" />
     public class NodaTimeConvention : IServiceConvention
